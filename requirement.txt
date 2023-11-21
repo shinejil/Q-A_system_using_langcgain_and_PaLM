@@ -1,0 +1,9 @@
+langchain
+python-dotenv
+streamlit
+tiktoken
+faiss-cpu
+protobuf
+sentence-transformers
+InstructorEmbedding
+google-generativeai
